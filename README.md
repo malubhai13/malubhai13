@@ -14,8 +14,8 @@
 <a href="https://instagram.com/malubhai13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malubhai13" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@malubhai13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@malubhai13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@anishmalu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anishmalu13" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ansihmalu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ansihmalu13" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anishmp37c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anishmp37c" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
