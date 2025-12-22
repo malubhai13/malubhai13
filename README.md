@@ -3,7 +3,7 @@
 
 - Currently working on **Malicious Webiste Prediction**
 
-- 🌱 I’m currently learning **Data Science, Excel, AI**
+- 🌱 I’m currently learning **Data Science, Power BI, GEN AI**
 
 - 📫 How to reach me **anishmalu13@gmail.com**
 
