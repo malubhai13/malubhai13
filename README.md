@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Malu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Science&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Malu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20Applied%20Data%20Science&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
 
-<a href="mailto:anishmalu13@gmail.com">📧 Email</a> |
-<a href="https://www.linkedin.com/in/anish-malu13/" target="_blank">💼 LinkedIn</a> |
-<a href="https://github.com/malubhai13" target="_blank">💻 GitHub</a> |
-<a href="https://leetcode.com/" target="_blank">🧠 LeetCode</a>
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/anishmalu13/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-malu13/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishmalu13@gmail.com)
+
+<br/>
 
 </div>
-</div>
 
 
-## 👋 About Me
+## About Me
 
 I'm a **Computer Science undergrad at LPU** (2023–2027) who enjoys sitting at the intersection of **data, intelligence, and systems**. I build things that are fast, meaningful, and grounded in real problems — from full-stack web apps to ML pipelines and analytics dashboards.
 
@@ -24,7 +25,7 @@ I'm a **Computer Science undergrad at LPU** (2023–2027) who enjoys sitting at 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -57,7 +58,7 @@ I'm a **Computer Science undergrad at LPU** (2023–2027) who enjoys sitting at 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🎓 [Student Management System](https://github.com/malubhai13)
 > React · Spring Boot · MySQL · JWT · RBAC
