@@ -1,14 +1,16 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Malu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Science&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anish--malu13-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-malu13/)
-[![GitHub](https://img.shields.io/badge/GitHub-malubhai13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malubhai13)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201413-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Email](https://img.shields.io/badge/Gmail-anishmalu13@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishmalu13@gmail.com)
+<a href="mailto:anishmalu13@gmail.com">📧 Email</a> |
+<a href="https://www.linkedin.com/in/anish-malu13/" target="_blank">💼 LinkedIn</a> |
+<a href="https://github.com/malubhai13" target="_blank">💻 GitHub</a> |
+<a href="https://leetcode.com/" target="_blank">🧠 LeetCode</a>
 
 </div>
----
+</div>
+
 
 ## 👋 About Me
 
