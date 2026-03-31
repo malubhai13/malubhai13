@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Malu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Full%20Stack%20%7C%20ML%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Malu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Science&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Malu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Full%20Stack%20%7C%20ML%20Engineer&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anish--malu13-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-malu13/)
 [![GitHub](https://img.shields.io/badge/GitHub-malubhai13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malubhai13)
