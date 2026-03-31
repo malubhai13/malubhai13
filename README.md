@@ -1,27 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anish%20Malu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Science&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
-<div align="center">
-
 <a href="mailto:anishmalu13@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
-</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/anish-malu13/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
-</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/malubhai13" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub"/>
-</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="35"/>
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35"/>
 </a>
 
 </div>
-</div>
-
 ---
 
 ## 👋 About Me
